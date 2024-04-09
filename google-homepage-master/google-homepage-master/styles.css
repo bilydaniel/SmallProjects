@@ -1,0 +1,57 @@
+.center{
+	position: absolute;
+	right: 45%;
+	top: 50px;
+}
+
+.bitdown {
+	position: absolute;
+	top: 300px;
+}
+
+.footer{
+	position: absolute;
+	bottom: 15px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	
+}
+
+ul.header{
+	right: 15px;
+	top: 15px;
+
+}
+
+ul.footer{
+	background-color: #bfbfbf;
+	line-height: 40px;
+	bottom:0;
+	left:0;
+	width: 100%;
+}
+
+li{
+	display: inline;
+	padding: 8px;
+	
+}
+
+ul.header li{
+	background-color: #b30000;
+	border-right: 3px solid black;
+	color:white;
+	border-radius :30px;
+	
+}
+
+
+li:hover{
+	background-color: #ff3333;
+}
+

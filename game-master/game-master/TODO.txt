@@ -1,0 +1,8 @@
+Shooting animation, shoot after animation finishes
+Shooting only forward
+Přidat melee
+Upravit pohyb (zpomalit, méně skákat apod.)
+HP
+Respawn
+enemy
+

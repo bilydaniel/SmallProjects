@@ -1,0 +1,16 @@
+Žánr: 2D platformová skákačka s RPG prvky
+________________________________________________
+Námět: Pixel art medieval
+________________________________________________
+Postava
+Zbraně: (mage) LMB Range auto attack, RMB mana shield, 5 zbraní pro Mage
+        5 brnění pro mage
+        
+
+
+
+        (warrior) LMB Close auto attack, RMP blokování mečem, 5 zbraní pro warriora
+        5 brnění pro warriora
+funkce: 3 elementy (kombinace elementů na spelly)
+
+________________________________________________
